@@ -25,3 +25,9 @@ git commit -m "<Commit Message>"
 
 ・コミットログを確認
 git log
+
+・remoteのサーバ名(URL)を「origin」に設定
+git remote add origin <Remote RepositoryのURL>
+
+・remoteのmasterにlocalのmasterをPushする
+git push origin master
