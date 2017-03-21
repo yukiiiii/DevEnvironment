@@ -1,0 +1,5 @@
+★cocoapods-keysについて
+http://qiita.com/satoshin2071/items/880ebdfe84dc6a6c8fbf
+
+★bundlerでプロジェクト毎にcocoapodsのバージョンを固定
+http://qiita.com/AcaiBowl/items/f48f9d0f53f1448720ec
